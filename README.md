@@ -15,5 +15,9 @@ Reference Source Code: https://github.com/noahgift/container-revolution-devops-m
 ## Videos
 
 
-[Creating a DockerFile and running the app locally with docker](https://loom.com/share/9342f6bf439146418a19e558ff33adba)
-[Pushing Docker Image to ECR](https://loom.com/share/f12127138787456796c27ab2da54c21f)
+###Creating a DockerFile and running the app locally with docker
+https://loom.com/share/9342f6bf439146418a19e558ff33adba
+
+
+### Pushing Docker Image to ECR 
+https://loom.com/share/f12127138787456796c27ab2da54c21f
