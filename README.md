@@ -15,7 +15,7 @@ Reference Source Code: https://github.com/noahgift/container-revolution-devops-m
 ## Videos
 
 
-###Creating a DockerFile and running the app locally with docker
+### Creating a DockerFile and running the app locally with docker
 https://loom.com/share/9342f6bf439146418a19e558ff33adba
 
 
