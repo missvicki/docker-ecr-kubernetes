@@ -1,11 +1,13 @@
 FROM python:3.8-slim-buster
 
-WORKDIR /app
+WORKDIR /main
 
-COPY ./requirements.txt /app
+COPY ./requirements.txt /main
 
 RUN pip3 install -r requirements.txt
 
-COPY . /app
+COPY . .
+
+ENV FLASK_APP=main.py
 
 CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
