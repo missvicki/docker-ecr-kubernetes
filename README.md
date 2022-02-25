@@ -21,3 +21,11 @@ https://loom.com/share/9342f6bf439146418a19e558ff33adba
 
 ### Pushing Docker Image to ECR 
 https://loom.com/share/f12127138787456796c27ab2da54c21f
+
+
+### Create Kubernetes Cluster
+https://www.loom.com/share/3cee343fbec6435a9c0139b376ab42d0?sharedAppSource=personal_library
+
+
+### Deploy to Kubernetes
+https://www.loom.com/share/268be4cc3e5b442caf2fd4db8929f113?sharedAppSource=personal_library
